@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Achraf Barakat
+- 👋 Hi, I’m Achraf Barakat a Student
 - 👀 I’m interested in ALL Languages XD
 - 🌱 I’m currently learning JS and C
