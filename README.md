@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Achraf Barakat
+- 👀 I’m interested in ALL Languages XD
+- 🌱 I’m currently learning JS and C
